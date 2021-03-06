@@ -130,11 +130,8 @@ def train_model(model, optimizer, criterion, X_train, X_test, y_train, y_test, T
 
 
 def get_predictions(model, path, batch_size, device, classification=False):
-    predict_files = glob(path + '/*')
-    for fname in predict_files:
-        id_ = fname.split('/')[-1][:-4]
-
     preds = []
+    predict_files = glob(path + '/*')
     for i in tqdm(range(0, len(predict_files), batch_size)):
         with torch.no_grad():
             model.eval()
