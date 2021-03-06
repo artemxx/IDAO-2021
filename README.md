@@ -2,6 +2,7 @@
 
 ### Useful links
 * [IDAO First Task Presentation](https://youtu.be/VzH_58yYz5k)
+* [Transfer learning for computer vision: PyTorch tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 * [Editorial of the competition on Kaggle, competition also about pictures](https://www.youtube.com/watch?v=gdBVOIfeW98&t=1588s)
 
 ### Как запускать
