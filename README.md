@@ -1,5 +1,8 @@
 # IDAO-2021
 
+### Useful links
+* [IDAO First Task Presentation](https://youtu.be/VzH_58yYz5k)
+* [Editorial of the competition on Kaggle, competition also about pictures](https://www.youtube.com/watch?v=gdBVOIfeW98&t=1588s)
 
 ### Как запускать
 * Обучать сетки и делать предсказания в _train_regression.ipynb_ и _train_classification.ipynb_, там всё сохраняется в файлы
